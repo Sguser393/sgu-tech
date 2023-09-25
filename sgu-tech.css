@@ -29,6 +29,3 @@ margin:0 5px}
 
 
 .animeTWD,.animeBlurTWD{position:fixed;width:100%;bottom:0;left:0;right:0;height:3px;z-index:23;background:linear-gradient(-45deg, #4086F4, #31A952, #FBBE01, #EB4132,#4086F4, #31A952, #FBBE01, #EB4132);background-size:200%;-webkit-animation:animeBar 5s linear infinite;animation:animeBar 5s linear infinite}.animeBlurTWD{height:10px;z-index:22;filter:blur(10px);opacity:.7}@-webkit-keyframes animeBar{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}@keyframes animeBar{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
-
-.hero-style22{
-background-attachment: scroll; background-clip: initial; background-color:#000000; background-origin: initial; background-position: 0% 0%; background-repeat: repeat; background-size: initial; background: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaZ8SOOKBNXwQB6qVHvBcO_bXce4ix3BJa_pbdIwtOxrKaEWRjBjVlVImy1NgceVsrbbYek2rbQXIEAi6O3GqsnmDJaSCyPQrc8RvLaLgFDisPgVCCRgMcxWBnu0viWYOPbpzBNjGNaLb7OYlB-298RmrISdvdpR3-L8jxf8OH5ecWlKtNteQRqMBqaw/s90/dsp.gif&quot;) 0% 0% repeat scroll transparent; box-sizing: border-box; color: #e97807; font-weight: bold; text-shadow: rgb(220, 20, 60) 0px 0px 0px;}
